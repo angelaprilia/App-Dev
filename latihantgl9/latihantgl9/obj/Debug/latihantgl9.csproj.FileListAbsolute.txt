@@ -1,0 +1,11 @@
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 2\AD\latihantgl9\latihantgl9\bin\Debug\latihantgl9.exe.config
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 2\AD\latihantgl9\latihantgl9\bin\Debug\latihantgl9.exe
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 2\AD\latihantgl9\latihantgl9\bin\Debug\latihantgl9.pdb
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 2\AD\latihantgl9\latihantgl9\obj\Debug\latihantgl9.csproj.AssemblyReference.cache
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 2\AD\latihantgl9\latihantgl9\obj\Debug\latihantgl9.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 2\AD\latihantgl9\latihantgl9\obj\Debug\latihantgl9.Form1.resources
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 2\AD\latihantgl9\latihantgl9\obj\Debug\latihantgl9.Properties.Resources.resources
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 2\AD\latihantgl9\latihantgl9\obj\Debug\latihantgl9.csproj.GenerateResource.cache
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 2\AD\latihantgl9\latihantgl9\obj\Debug\latihantgl9.csproj.CoreCompileInputs.cache
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 2\AD\latihantgl9\latihantgl9\obj\Debug\latihantgl9.exe
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 2\AD\latihantgl9\latihantgl9\obj\Debug\latihantgl9.pdb
