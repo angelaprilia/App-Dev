@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "THA_W1_ANGEL_L/1.0.0": {
+        "runtime": {
+          "THA_W1_ANGEL_L.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "THA_W1_ANGEL_L/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

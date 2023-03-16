@@ -1,0 +1,15 @@
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 2\AD\THA_W1_ANGEL_L\THA_W1_ANGEL_L\bin\Debug\net6.0\THA_W1_ANGEL_L.exe
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 2\AD\THA_W1_ANGEL_L\THA_W1_ANGEL_L\bin\Debug\net6.0\THA_W1_ANGEL_L.deps.json
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 2\AD\THA_W1_ANGEL_L\THA_W1_ANGEL_L\bin\Debug\net6.0\THA_W1_ANGEL_L.runtimeconfig.json
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 2\AD\THA_W1_ANGEL_L\THA_W1_ANGEL_L\bin\Debug\net6.0\THA_W1_ANGEL_L.dll
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 2\AD\THA_W1_ANGEL_L\THA_W1_ANGEL_L\bin\Debug\net6.0\THA_W1_ANGEL_L.pdb
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 2\AD\THA_W1_ANGEL_L\THA_W1_ANGEL_L\obj\Debug\net6.0\THA_W1_ANGEL_L.csproj.AssemblyReference.cache
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 2\AD\THA_W1_ANGEL_L\THA_W1_ANGEL_L\obj\Debug\net6.0\THA_W1_ANGEL_L.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 2\AD\THA_W1_ANGEL_L\THA_W1_ANGEL_L\obj\Debug\net6.0\THA_W1_ANGEL_L.AssemblyInfoInputs.cache
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 2\AD\THA_W1_ANGEL_L\THA_W1_ANGEL_L\obj\Debug\net6.0\THA_W1_ANGEL_L.AssemblyInfo.cs
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 2\AD\THA_W1_ANGEL_L\THA_W1_ANGEL_L\obj\Debug\net6.0\THA_W1_ANGEL_L.csproj.CoreCompileInputs.cache
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 2\AD\THA_W1_ANGEL_L\THA_W1_ANGEL_L\obj\Debug\net6.0\THA_W1_ANGEL_L.dll
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 2\AD\THA_W1_ANGEL_L\THA_W1_ANGEL_L\obj\Debug\net6.0\refint\THA_W1_ANGEL_L.dll
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 2\AD\THA_W1_ANGEL_L\THA_W1_ANGEL_L\obj\Debug\net6.0\THA_W1_ANGEL_L.pdb
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 2\AD\THA_W1_ANGEL_L\THA_W1_ANGEL_L\obj\Debug\net6.0\THA_W1_ANGEL_L.genruntimeconfig.cache
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 2\AD\THA_W1_ANGEL_L\THA_W1_ANGEL_L\obj\Debug\net6.0\ref\THA_W1_ANGEL_L.dll
