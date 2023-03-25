@@ -1,0 +1,11 @@
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 2\AD\THA_W5_ANGEL_L1\THA_W5_ANGEL_L1\obj\Debug\THA_W5_ANGEL_L1.csproj.AssemblyReference.cache
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 2\AD\THA_W5_ANGEL_L1\THA_W5_ANGEL_L1\obj\Debug\THA_W5_ANGEL_L1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 2\AD\THA_W5_ANGEL_L1\THA_W5_ANGEL_L1\obj\Debug\THA_W5_ANGEL_L1.Properties.Resources.resources
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 2\AD\THA_W5_ANGEL_L1\THA_W5_ANGEL_L1\obj\Debug\THA_W5_ANGEL_L1.csproj.GenerateResource.cache
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 2\AD\THA_W5_ANGEL_L1\THA_W5_ANGEL_L1\obj\Debug\THA_W5_ANGEL_L1.csproj.CoreCompileInputs.cache
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 2\AD\THA_W5_ANGEL_L1\THA_W5_ANGEL_L1\bin\Debug\THA_W5_ANGEL_L1.exe.config
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 2\AD\THA_W5_ANGEL_L1\THA_W5_ANGEL_L1\bin\Debug\THA_W5_ANGEL_L1.exe
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 2\AD\THA_W5_ANGEL_L1\THA_W5_ANGEL_L1\bin\Debug\THA_W5_ANGEL_L1.pdb
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 2\AD\THA_W5_ANGEL_L1\THA_W5_ANGEL_L1\obj\Debug\THA_W5_ANGEL_L1.Form1.resources
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 2\AD\THA_W5_ANGEL_L1\THA_W5_ANGEL_L1\obj\Debug\THA_W5_ANGEL_L1.exe
+C:\Users\Angel Aprilia\OneDrive\Desktop\KULIAH\SEMESTER 2\AD\THA_W5_ANGEL_L1\THA_W5_ANGEL_L1\obj\Debug\THA_W5_ANGEL_L1.pdb
