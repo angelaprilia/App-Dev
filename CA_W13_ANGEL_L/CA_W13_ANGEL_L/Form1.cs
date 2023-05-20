@@ -64,7 +64,7 @@ namespace CA_W13_ANGEL_L
             dt.Clear();
             try
             {
-                query = "select p.player_name, p.team_number, n.nation, p.playing_pos, p.height, p.weight, p.birthdate\r\nfrom player p, nationality n\r\nwhere p.nationality_id = n.nationality_id and p.status = '1' order by player_id;";
+                query = "select p.player_name, p.team_number, n.nation, p.playing_pos, p.height, p.weight, p.birthdate\r\nfrom player p, nationality n\r\nwhere p.nationality_id = n.nationality_id and p.status = '1' order by player_name;";
                 sqlCommand = new MySqlCommand(query, sqlConnection);
                 sqlDataAdapter = new MySqlDataAdapter(sqlCommand);
                 sqlDataAdapter.Fill(dt);
@@ -154,10 +154,10 @@ namespace CA_W13_ANGEL_L
         }
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            updateDgv1();
             comboBox_teamname2.SelectedIndexChanged -= comboBox_teamname2_SelectedIndexChanged;
             dt = new DataTable();
-            query = "select p.player_name, p.team_number, n.nation, p.playing_pos, p.height, p.weight, p.birthdate\r\nfrom player p \r\njoin nationality n on p.nationality_id = n.nationality_id \r\nwhere p.status = 1 \r\norder by player_id;";
+            query = "select p.player_name, p.team_number, n.nation, p.playing_pos, p.height, p.weight, p.birthdate\r\nfrom player p \r\njoin nationality n on p.nationality_id = n.nationality_id \r\nwhere p.status = 1 \r\norder by player_name;";
             sqlConnection = new MySqlConnection(connectionstring);
             sqlCommand = new MySqlCommand(query, sqlConnection);
             sqlDataAdapter = new MySqlDataAdapter(sqlCommand);
@@ -315,7 +315,7 @@ namespace CA_W13_ANGEL_L
             {
                 query = $"update team set manager_id =  '{dataGridView2.CurrentRow.Cells[3].Value}' where team_id = '{comboBox_teamname3.SelectedValue}';";
                 executeSQL3(query);
-                query = $"update manager set working = 0 where manager_id = '{dataGridView3.CurrentRow.Cells[3].Value}'";
+                query = $"update manager set working = 0 where manager_id = '{dataGridView3.CurrentRow.Cells[4].Value}'";
                 executeSQL3(query);
                 query = $"update manager set working = 1 WHERE manager_id =  '{dataGridView2.CurrentRow.Cells[3].Value}';";
                 executeSQL3(query);
